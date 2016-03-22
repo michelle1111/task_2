@@ -1,0 +1,17 @@
+body{background-color: lightgrey;
+     font-family: Arial;
+     }
+div{margin:auto; }
+a{text-decoration:none;color: coral;}
+h3{text-align: center;color:darksalmon;}
+li{padding-right: 20px; color:white;float: left;}
+table{width:80%; margin:10px auto;}
+h4{color:darksalmon;}
+span{width:20px;}
+.ps{text-align: center;background-color: white;}
+.header{margin:none;height:60px;background-color:black;}
+.branch{width:inherit;background-color: white;}
+
+#title{color:white;width: 50%;float:left;}
+#floatright{float:right;line-height: 60px;}
+#imgcenter{text-align:center;}
